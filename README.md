@@ -42,9 +42,8 @@ python analyze.py
 `output/sample_chart.png` is included as a visual example. Your script run should generate/overwrite `output/chart.png`.
 
 ## Reflection (write 3–5 sentences)
-Replace this section with your own reflection:
-- What was the hardest part?
-- What did you learn about Git commits (small commits, staging, meaningful messages)?
+What did you learn about Git commits (small commits, staging, meaningful messages)?
+The Git commits enabled me to understand the role of Git in connecting local files to a remote repository. This is especially important because it allows us, the users, to save changes conveniently and also enables other users to contribute ideas, track progress, and collaborate efficiently. Moreover, the process of staging and permanently saving changes in a repository is a process that data science students like us should learn, as it paves the way for us to relay pertinent and organized messages through a programming language like Python.
 
 ## Generative AI Disclosure (if applicable)
 - Tool used:
