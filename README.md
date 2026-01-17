@@ -43,13 +43,11 @@ python analyze.py
 
 ## Reflection (write 3–5 sentences)
 What did you learn about Git commits (small commits, staging, meaningful messages)?
-The Git commits enabled me to understand the role of Git in connecting local files to a remote repository. This is especially important because it allows us, the users, to save changes conveniently and also enables other users to contribute ideas, track progress, and collaborate efficiently. Moreover, the process of staging and permanently saving changes in a repository is a process that data science students like us should learn, as it paves the way for us to relay pertinent and organized messages through a programming language like Python.
+The ‘Git commits’ prompt was a convenient way to understand and create structure in building codes in the repository. The possibility of being able to edit codes locally to upload to the repository for further deliberation of its addition presents an organized and seamless way for a collaborative effort in finishing tasks simultaneously among individuals, without the need to upload separate files from different members, nor editing over the work of another without considering the considerations of other members on the modification. Furthermore, it is due to staging that helps in isolating the codes for submission, rather than sending duplicates within a repository. Coupled with the git commit, the systematic way of framing and altering codes using such prompts enables users to track adjustments, discuss whether adjustments should be made, and reduce confusion during collaboration, producing a traceable and easy-to-review repository.
 
 ## Generative AI Disclosure (if applicable)
 - Tool used:
 - What it was used for:
-  - ...
-  - ...
+  - None
 - What I personally verified/changed:
-  - ...
-  - ...
+  - An SSL certificate issue initially caused errors when loading a dataset from an HTTPS source. The issue was resolved through environment changes, and importing pip was not required.
