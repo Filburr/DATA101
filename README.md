@@ -48,6 +48,6 @@ The ‘Git commits’ prompt was a convenient way to understand and create struc
 ## Generative AI Disclosure (if applicable)
 - Tool used:
 - What it was used for:
-  - None
+  - Determining an error
 - What I personally verified/changed:
   - An SSL certificate issue initially caused errors when loading a dataset from an HTTPS source. The issue was resolved through environment changes, and importing pip was not required.
